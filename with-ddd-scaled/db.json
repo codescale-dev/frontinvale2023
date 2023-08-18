@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "2d80ad9c-435d-47e7-bdd2-3b5578a83ea9",
+      "name": "Sheldon Cooper",
+      "email": "sheldon.cooper@caltech.edu",
+      "password": "SIp#YRi7J1tdYMo4efF)nB2_"
+    },
+    {
+      "id": "e4468271-1321-43f8-847a-de05306d6eff",
+      "name": "Leonard Hofstadter",
+      "email": "leonard.hofstadter@caltech.edu",
+      "password": "7B9U83Y4D9m#?!Vqz:f)R0co"
+    },
+    {
+      "name": "Thomas Alvarenga",
+      "email": "thomas@gmail.com",
+      "password": "Abc@1234",
+      "id": "H9dvY3H"
+    },
+    {
+      "name": "Test",
+      "email": "test@email.com",
+      "password": "Abc@1234",
+      "id": "vZZMGSo"
+    }
+  ],
+  "token": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+    }
+  ],
+  "empty": []
+}
